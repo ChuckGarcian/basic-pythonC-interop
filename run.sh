@@ -3,4 +3,4 @@ gcc -o myprogram main.c -L. -ltestC
 
 ./myprogram
 rm myprogram
-rm libtestC.so
+# rm libtestC.so
